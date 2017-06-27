@@ -3,8 +3,7 @@
 Install 3proxy proxy server on Ubuntu 16.04 server.
 
 ```
-wget https://raw.githubusercontent.com/HostOnNet/3proxy/master/install.sh
-chmod +x install.sh
+wget https://raw.githubusercontent.com/tommy43087/3proxy/master/install.sh
 ./install.sh
 ```
 
