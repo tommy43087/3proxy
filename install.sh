@@ -6,7 +6,7 @@ rm -rf /etc/3proxy/ /etc/init.d/3proxy /usr/bin/3proxy
 mkdir /etc/3proxy/
 
 wget https://github.com/HostOnNet/3proxy/raw/master/3proxy -O /usr/bin/3proxy
-wget https://raw.githubusercontent.com/tommy43087/3proxy/master/3proxy.cfg -O /etc/3proxy/3proxy.cfg
+wget https://github.com/tommy43087/3proxy/raw/master/3proxy.cfg -O /etc/3proxy/3proxy.cfg
 wget https://github.com/HostOnNet/3proxy/raw/master/users -O /etc/3proxy/users
 wget https://raw.github.com/HostOnNet/3proxy/master/3proxyinit -O /etc/init.d/3proxy
 
